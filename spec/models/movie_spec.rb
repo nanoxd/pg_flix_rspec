@@ -12,4 +12,5 @@ describe "A movie" do
 
     expect(movie.flop?).to be_false
   end
+
 end
